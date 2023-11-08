@@ -8,5 +8,9 @@
 </head>
 <body>
 
+<script>
+	location.href="boardform.do"
+</script>
+
 </body>
 </html>
